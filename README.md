@@ -14,6 +14,6 @@ zenithOS is a specialized unikernel framework that combines the performance bene
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
 ---
 
-**Built with ❤️ by the Sourik**
+**Built with ❤️ by Sourik**
 
 For questions or support, reach out to us at [sourikadhikary@gmail.com](mailto:sourikadhikary@gmail.com)
